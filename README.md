@@ -47,17 +47,6 @@ A full-stack web app built with Next.js, Supabase, and the AniList GraphQL API �
 
 ---
 
-## 📦 Local Development
-
-Clone the repo:
-
-```bash
-git clone https://github.com/your-username/anime-manga-app.git
-cd anime-manga-app
-
-
-
-
 🔐 Auth Setup
 
 Uses Supabase for email + Discord login.
@@ -83,4 +72,14 @@ This is currently a solo project, but pull requests or suggestions are welcome o
 	•	Anilist & MyAnimeList UX
 	•	Chill anime cafés ☕
 	•	Projects with real purpose, not dopamine traps
+
+ 
+
+## 📦 Local Development
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/anime-manga-app.git
+cd anime-manga-app
 
