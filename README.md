@@ -56,7 +56,7 @@ git clone https://github.com/your-username/anime-manga-app.git
 cd anime-manga-app
 
 
-____
+
 
 🔐 Auth Setup
 
