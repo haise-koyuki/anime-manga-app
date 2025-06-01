@@ -54,3 +54,33 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/anime-manga-app.git
 cd anime-manga-app
+
+
+____
+
+🔐 Auth Setup
+
+Uses Supabase for email + Discord login.
+	•	Make sure your Supabase project has Discord provider enabled.
+	•	Auth logic is handled via supabase.auth.signInWithOAuth() and magic links.
+
+⸻
+
+💬 API Usage
+	•	AniList GraphQL API is used to fetch anime/manga metadata.
+	•	GraphQL queries are stored in the lib/queries/ folder (TBD).
+
+____
+
+🤝 Contributing
+
+This is currently a solo project, but pull requests or suggestions are welcome once a public roadmap is released. Feel free to fork and modify it for your own taste.
+
+⸻
+
+🧠 Inspiration
+	•	Spicetify themes
+	•	Anilist & MyAnimeList UX
+	•	Chill anime cafés ☕
+	•	Projects with real purpose, not dopamine traps
+
