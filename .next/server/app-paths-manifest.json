@@ -1,0 +1,8 @@
+{
+  "/[type]/[id]/page": "app/[type]/[id]/page.js",
+  "/app/page": "app/app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/library/page": "app/library/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js"
+}
